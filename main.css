@@ -1,12 +1,22 @@
 body {
     text-align:Center;
-    background-color:#43BFC7;
+    background-color:#43BFC3;
 }
 h1{
     color:#fff;
 }
 
 img {
+    margin-top:250px;
     width:200px;
     border-radius:50%;
+}
+project-title {
+    text-align:left;
+    margin-left:250px;
+}
+dodge{
+    text-align:center;
+    color:#413DCC;
+    
 }
